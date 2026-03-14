@@ -1,0 +1,13 @@
+# Dependencies
+node_modules/
+
+# Generated output (QR images and URL log)
+output/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor directories
+.vscode/
+.idea/
